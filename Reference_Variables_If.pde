@@ -1,4 +1,4 @@
-// add your Reference_Variable_If code here
+// add your Reference_Variables_If code here
 int X= 250;
 int Y= 250;
 int bounce= 50;
