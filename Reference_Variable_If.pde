@@ -18,5 +18,4 @@ void draw() {
   {
     bounce=bounce*(-1);
   }
-
 }
